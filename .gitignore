@@ -1,0 +1,19 @@
+# Word 论文文档（不上传）
+*.docx
+~$*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时文件
+.eq_tmp/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
